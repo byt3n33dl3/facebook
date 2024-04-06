@@ -1,1 +1,2 @@
-# Facebook Clone Project
+# Facebook Clone Project 🌏
+### SCSS + TypeScript + TSX
