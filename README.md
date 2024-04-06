@@ -1,2 +1,1 @@
-# FBclone-PRJ
-fb Clone
+# Facebook Clone Project
