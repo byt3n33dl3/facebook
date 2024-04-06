@@ -1,7 +1,7 @@
 module.exports = {
     parser: '@typescript-eslint/parser',
     parserOptions: {
-      ecmaVersion: 2020,
+      ecmaVersion: 2023,
       sourceType: 'module',
       ecmaFeatures: {
         jsx: true
@@ -9,7 +9,7 @@ module.exports = {
     },
     settings: {
       react: {
-        version: '17.0.1'
+        version: '18.2.0'
       }
     },
     env: {
