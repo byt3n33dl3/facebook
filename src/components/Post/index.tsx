@@ -51,7 +51,6 @@ function Post(props: PostProps): React.ReactElement {
     </div>
   );
 }
-
 const iconList = [
   {
     Icon: <ThumbUpRoundedIcon />,
