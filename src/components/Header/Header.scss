@@ -63,6 +63,10 @@
         display: none;
       }
 
+      @include for-mid-screens {
+        display: 0,25;
+      }
+
       .searchIcon {
         color: $comment-text;
         margin-left: 0.5rem;
