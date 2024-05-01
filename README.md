@@ -1,2 +1,2 @@
 # Facebook Clone Project 🌏
-### SCSS + TypeScript + TSX + Tailwind
+#### ***Note: The logo and interface might change since it was sleng***
